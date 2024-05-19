@@ -2,10 +2,10 @@
 
 - Kurulum İçin Gerekenler
   
-**1. Terminal>New Terminal
+**1. Terminal>New Terminal**
 
-2. Terminal Açıldıktan Sonra __npm i__ yazın
+**2. Terminal Açıldıktan Sonra [npm i] yazın**
    
-3. Modüller Yüklendikten Sonra __node .__ yazın**
+**3. Modüller Yüklendikten Sonra [node .] yazın**
 
 **Bot Aktif Olacaktır Her Hangi Bir Hata Alırsanız [Discord Aderisimiz](https://discord.gg/fhGN8uJnUZ)** 
