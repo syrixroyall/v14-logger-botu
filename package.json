@@ -1,0 +1,22 @@
+{
+  "name": "v14-log-bot",
+  "version": "0.0.1",
+  "description": "v14 Discord Log Botudur!",
+  "main": "syrix.js",
+  "scripts": {
+    "start": "node syrix.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "Syrix",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "discord-logs": "^2.2.1",
+    "discord.js": "^14.8.0"
+  },
+  "keywords": [
+    "syrix.exe"
+  ]
+}
